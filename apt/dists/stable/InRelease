@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Sun, 25 Oct 2026 14:01:09 GMT
+Date: Sun, 25 Oct 2026 15:25:11 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- aceb44b5e41bf1115bfd5f5e5dbfa055      717 main/binary-amd64/Packages
- d82ed823a8b7fa4b016f7ca79497ac3f      502 main/binary-amd64/Packages.gz
- f805eab136b067638544156944f588a6      717 main/binary-arm64/Packages
- bc6a68bf1c0f54064b6de03ae79fbe58      505 main/binary-arm64/Packages.gz
+ 1a021cbb24b29729cc02846c9ce78b1e      717 main/binary-amd64/Packages
+ afbd4c966edd19f8f40140d9d882a0da      502 main/binary-amd64/Packages.gz
+ d2e719f009227d8bb4b87579762d3b00      717 main/binary-arm64/Packages
+ 6259cff56a0321f5ef2ebfded80a353d      506 main/binary-arm64/Packages.gz
 SHA256:
- d0c770389a2d6814099bb81f2f64495ab38e6367bc6722f2faaf3e3796579cce      717 main/binary-amd64/Packages
- 0929012cb363c8dd7c9a36e5f38f00f78c3339aadf439d522a5c08771c07262e      502 main/binary-amd64/Packages.gz
- e3298b29aca72924fbbcf836e65693491bc8ad9af743cf3ce070199a63597d76      717 main/binary-arm64/Packages
- 929aabce0d99bbb82cfe7554d25da95444934aeb1c297f36e8f9b6cb9d1c51bf      505 main/binary-arm64/Packages.gz
+ 709377aebaccea33e8ffd4bb6df0d0badf5196a9fafef6a8650357f6650026b4      717 main/binary-amd64/Packages
+ 3d2cb642c4408f61cc8ab8500ba3738da6a6f61cd78a6184a9a4ce7505af6fef      502 main/binary-amd64/Packages.gz
+ df34902bf7b02b3a75926f1294973f3adc42228addb1435a44d6f333491fc819      717 main/binary-arm64/Packages
+ c939ebcce69a441203569731543146c3009e5dac84fe8a337e81f37d84c2079c      506 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCat4LpQAKCRDLoUXX7xqp
-Euc9AQDIDcw/kqjQtrq1hF+qxgrpUxckwkPvg3ukwmJIwKo2VAEAnUKDcilzw81z
-cmiYEJhMESG/Pjjpuv8ylua/NZoybAA=
-=eJ9c
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCat4fVwAKCRDLoUXX7xqp
+EhJKAP957xozhe15Wvgr5aSUkOzhfXUnynQmK5ihLPM+ej5kzQEAiRyAusW45mgb
+6uiOJyqMypaeOOkUYKjK7NWzewhbRAM=
+=peVj
 -----END PGP SIGNATURE-----
