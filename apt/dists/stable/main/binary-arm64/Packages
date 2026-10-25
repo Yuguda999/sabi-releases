@@ -1,0 +1,20 @@
+Package: sabi-hub
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Sabi <hello@sabi.ng>
+Installed-Size: 15712
+Depends: systemd
+Recommends: xdg-utils, network-manager, dnsmasq-base
+Filename: pool/main/s/sabi-hub/sabi-hub_0.3.3_arm64.deb
+Size: 4873396
+MD5sum: ee536f3d7413b7f8e1af77520a99cda4
+SHA1: 7b1205a700c84fa96ed6ee84ca6db202132e3702
+SHA256: b72bc58f9757d50480b9709ac759135b0f122819ecf5402039c8eabc7d43bfde
+Section: education
+Priority: optional
+Homepage: https://sabi-studio.pages.dev
+Description: Sabi exam hub
+ Runs Sabi exams in a school without internet. Students' phones and the lab
+ computers open it over the school Wi-Fi. Open "Sabi Hub" from the app menu to
+ connect it to your school and to run an exam.
+

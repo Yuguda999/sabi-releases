@@ -1,0 +1,18 @@
+Origin: Sabi
+Label: Sabi Hub
+Suite: stable
+Codename: stable
+Date: Sun, 25 Oct 2026 11:57:52 GMT
+Architectures: amd64 arm64
+Components: main
+Description: Sabi exam hub for schools
+MD5Sum:
+ 02d5c0fa17220b8fd8686e0c6f7a2dae      717 main/binary-amd64/Packages
+ a59b481a69b7c38e740242ca2892591b      501 main/binary-amd64/Packages.gz
+ 4d19fd972f02e421c864e2520621e9c3      717 main/binary-arm64/Packages
+ 700a53fe5b7f479e227e3e28cb168814      505 main/binary-arm64/Packages.gz
+SHA256:
+ 2fde2022e6b05d161742243282044b194c4816a2b56c228192784e03875956dd      717 main/binary-amd64/Packages
+ 4fc45e2879df640936b13b490acea4c6891581c734ecbf2780f77304da3f64df      501 main/binary-amd64/Packages.gz
+ e72144134c76a8f83d085a59a9ccce55fc6160cae757e013efd9768f3dafd5e4      717 main/binary-arm64/Packages
+ f82fdeef9f7e2698b90031874ddc498a9e02d76a2d20d183df2cb861571cb4a8      505 main/binary-arm64/Packages.gz
