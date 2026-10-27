@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Tue, 27 Oct 2026 11:35:41 GMT
+Date: Tue, 27 Oct 2026 12:11:03 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 9e9c702ef6e2ab17cce05b36e5be9bce      717 main/binary-amd64/Packages
- 030a0b89ef27deb7dd85e135c39d7207      502 main/binary-amd64/Packages.gz
- 01b69e2521a2af56aa12afcd68c30882      717 main/binary-arm64/Packages
- 89461e4d981ecd14142dac8b4fbf13c0      502 main/binary-arm64/Packages.gz
+ eed552876bc7c089e674951890d69e3f      717 main/binary-amd64/Packages
+ 70a4e562ac8abf1b973482b12797b78a      502 main/binary-amd64/Packages.gz
+ b87efb6ffb1771c5cf7589b24a5d66e3      717 main/binary-arm64/Packages
+ a4b7bb1fe5ea1218eb4abf1de6d1daae      504 main/binary-arm64/Packages.gz
 SHA256:
- b58ef002358e4231d42d5d089e27921617e1e84fba6fefca3df29e609cd1cd70      717 main/binary-amd64/Packages
- 9bcbb73c1cad0d5d3e7e381d30628479aa9106c793de033e5ab85add8221be41      502 main/binary-amd64/Packages.gz
- f78b7076cb60f887ca36d436621d770c83803c06e7b2cc184eb824608d97ddd0      717 main/binary-arm64/Packages
- cd9d7f8ad240e585992b499e4e0726b3cdac15cb4d6a9b2bbbec5fade68712b0      502 main/binary-arm64/Packages.gz
+ aac3a656a6ac56d4930e3abb9dcfe2c5dfb7e791281ecacc08272647ec52fab6      717 main/binary-amd64/Packages
+ 8922c54e14d5ca6d2a175cab53a7ea5351e0e8907b8a6a2e592b799bf7e8b518      502 main/binary-amd64/Packages.gz
+ 52843ede68296a762e375b93b6def55f6ef6fc7557a8d8d1471e40ca50dbb10c      717 main/binary-arm64/Packages
+ 075d97204e69071f65f1bc72a74f3be3055762a3df5c335fabb98692252a925f      504 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauCMjQAKCRDLoUXX7xqp
-EkcHAQDjfqEWdxtDmW9aoltxgV3OG0P+N01oni2tY71F+MFTjQEA6kJtWJZnrZEX
-NeSrVWWJ1apLtNR0PxaYzzxShig5yA4=
-=z4N1
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauCU1wAKCRDLoUXX7xqp
+EpyNAQCzLA4hqX1l6FhCMfkDM/pjSRI+2xDUQcfJpumzjvN+7wD5AU6EGSY9xs7u
+RwzC2bgl0Et0Ow2qvl0cTPKmzSkIFQA=
+=q0by
 -----END PGP SIGNATURE-----
