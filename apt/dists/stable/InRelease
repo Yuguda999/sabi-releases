@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Sun, 25 Oct 2026 15:25:11 GMT
+Date: Tue, 27 Oct 2026 10:10:19 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 1a021cbb24b29729cc02846c9ce78b1e      717 main/binary-amd64/Packages
- afbd4c966edd19f8f40140d9d882a0da      502 main/binary-amd64/Packages.gz
- d2e719f009227d8bb4b87579762d3b00      717 main/binary-arm64/Packages
- 6259cff56a0321f5ef2ebfded80a353d      506 main/binary-arm64/Packages.gz
+ e6fa4b0dd8a967df8f270cd65f5250fb      717 main/binary-amd64/Packages
+ 5b3af514f2773ceb0a30069d1340c367      505 main/binary-amd64/Packages.gz
+ 79ee44cd6cb9a591231174784f9ef276      717 main/binary-arm64/Packages
+ 315e423896a4950d5f13c3a847d3d2ae      503 main/binary-arm64/Packages.gz
 SHA256:
- 709377aebaccea33e8ffd4bb6df0d0badf5196a9fafef6a8650357f6650026b4      717 main/binary-amd64/Packages
- 3d2cb642c4408f61cc8ab8500ba3738da6a6f61cd78a6184a9a4ce7505af6fef      502 main/binary-amd64/Packages.gz
- df34902bf7b02b3a75926f1294973f3adc42228addb1435a44d6f333491fc819      717 main/binary-arm64/Packages
- c939ebcce69a441203569731543146c3009e5dac84fe8a337e81f37d84c2079c      506 main/binary-arm64/Packages.gz
+ 76d48dca9ab994aa5e92a2aaedce51af8fad6f2a3335363fbacc7447953b1da6      717 main/binary-amd64/Packages
+ c5f817895403272a77c941277a1f9aa784b12f83cb522816e4cf87f3fd23e7e0      505 main/binary-amd64/Packages.gz
+ 28cfa54b735b5ca2f49e3bf65a9db0ca8813c74ba7130a1162cbecfca0be582b      717 main/binary-arm64/Packages
+ 04a01a65468ba33f3cbb4f7e404e0a8949bf75ef21a750e41bfc3b857d25e958      503 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCat4fVwAKCRDLoUXX7xqp
-EhJKAP957xozhe15Wvgr5aSUkOzhfXUnynQmK5ihLPM+ej5kzQEAiRyAusW45mgb
-6uiOJyqMypaeOOkUYKjK7NWzewhbRAM=
-=peVj
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauB4iwAKCRDLoUXX7xqp
+EndIAP9eu1wMRfKX51nqMzuk7TfkkED/BqVG25Iv0BLuG2v9+gEAm9JbIgJCZzW3
+6VBK8KRDPVRdyercUrC8nhtL95yjbAE=
+=V8lg
 -----END PGP SIGNATURE-----
