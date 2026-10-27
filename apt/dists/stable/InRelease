@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Tue, 27 Oct 2026 10:10:19 GMT
+Date: Tue, 27 Oct 2026 11:35:41 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- e6fa4b0dd8a967df8f270cd65f5250fb      717 main/binary-amd64/Packages
- 5b3af514f2773ceb0a30069d1340c367      505 main/binary-amd64/Packages.gz
- 79ee44cd6cb9a591231174784f9ef276      717 main/binary-arm64/Packages
- 315e423896a4950d5f13c3a847d3d2ae      503 main/binary-arm64/Packages.gz
+ 9e9c702ef6e2ab17cce05b36e5be9bce      717 main/binary-amd64/Packages
+ 030a0b89ef27deb7dd85e135c39d7207      502 main/binary-amd64/Packages.gz
+ 01b69e2521a2af56aa12afcd68c30882      717 main/binary-arm64/Packages
+ 89461e4d981ecd14142dac8b4fbf13c0      502 main/binary-arm64/Packages.gz
 SHA256:
- 76d48dca9ab994aa5e92a2aaedce51af8fad6f2a3335363fbacc7447953b1da6      717 main/binary-amd64/Packages
- c5f817895403272a77c941277a1f9aa784b12f83cb522816e4cf87f3fd23e7e0      505 main/binary-amd64/Packages.gz
- 28cfa54b735b5ca2f49e3bf65a9db0ca8813c74ba7130a1162cbecfca0be582b      717 main/binary-arm64/Packages
- 04a01a65468ba33f3cbb4f7e404e0a8949bf75ef21a750e41bfc3b857d25e958      503 main/binary-arm64/Packages.gz
+ b58ef002358e4231d42d5d089e27921617e1e84fba6fefca3df29e609cd1cd70      717 main/binary-amd64/Packages
+ 9bcbb73c1cad0d5d3e7e381d30628479aa9106c793de033e5ab85add8221be41      502 main/binary-amd64/Packages.gz
+ f78b7076cb60f887ca36d436621d770c83803c06e7b2cc184eb824608d97ddd0      717 main/binary-arm64/Packages
+ cd9d7f8ad240e585992b499e4e0726b3cdac15cb4d6a9b2bbbec5fade68712b0      502 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauB4iwAKCRDLoUXX7xqp
-EndIAP9eu1wMRfKX51nqMzuk7TfkkED/BqVG25Iv0BLuG2v9+gEAm9JbIgJCZzW3
-6VBK8KRDPVRdyercUrC8nhtL95yjbAE=
-=V8lg
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauCMjQAKCRDLoUXX7xqp
+EkcHAQDjfqEWdxtDmW9aoltxgV3OG0P+N01oni2tY71F+MFTjQEA6kJtWJZnrZEX
+NeSrVWWJ1apLtNR0PxaYzzxShig5yA4=
+=z4N1
 -----END PGP SIGNATURE-----
