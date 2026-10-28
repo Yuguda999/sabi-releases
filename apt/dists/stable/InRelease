@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Tue, 27 Oct 2026 12:11:03 GMT
+Date: Wed, 28 Oct 2026 17:21:10 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- eed552876bc7c089e674951890d69e3f      717 main/binary-amd64/Packages
- 70a4e562ac8abf1b973482b12797b78a      502 main/binary-amd64/Packages.gz
- b87efb6ffb1771c5cf7589b24a5d66e3      717 main/binary-arm64/Packages
- a4b7bb1fe5ea1218eb4abf1de6d1daae      504 main/binary-arm64/Packages.gz
+ 0c280a6142b5a0603ed55c09ecc1eb68      719 main/binary-amd64/Packages
+ 043b5d794674396b1b85c186dc29be56      504 main/binary-amd64/Packages.gz
+ 5621247599c9990999bdfef22cc4c9bc      719 main/binary-arm64/Packages
+ 1a5a109461a4ac34f8e53bbcbf55a2e8      503 main/binary-arm64/Packages.gz
 SHA256:
- aac3a656a6ac56d4930e3abb9dcfe2c5dfb7e791281ecacc08272647ec52fab6      717 main/binary-amd64/Packages
- 8922c54e14d5ca6d2a175cab53a7ea5351e0e8907b8a6a2e592b799bf7e8b518      502 main/binary-amd64/Packages.gz
- 52843ede68296a762e375b93b6def55f6ef6fc7557a8d8d1471e40ca50dbb10c      717 main/binary-arm64/Packages
- 075d97204e69071f65f1bc72a74f3be3055762a3df5c335fabb98692252a925f      504 main/binary-arm64/Packages.gz
+ b3fb15ff41925c2b21dc071bcb0c35cb7563dd23dc6d670263c1521144594d22      719 main/binary-amd64/Packages
+ 9eaf4831dc3cba284f91a92231c01b631df317a12d3527bdb493b76b1a251766      504 main/binary-amd64/Packages.gz
+ b64cc620ca4daecbf1e3e6d28889778ab1ba9ea1a66cb008dee0bf8d094f2ee3      719 main/binary-arm64/Packages
+ 4a8e9f14c617d93d61cec9afdcb5fdbec5dbdb2f594b3f25f2ff330bbc338308      503 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauCU1wAKCRDLoUXX7xqp
-EpyNAQCzLA4hqX1l6FhCMfkDM/pjSRI+2xDUQcfJpumzjvN+7wD5AU6EGSY9xs7u
-RwzC2bgl0Et0Ow2qvl0cTPKmzSkIFQA=
-=q0by
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauIvBgAKCRDLoUXX7xqp
+EmitAP0ct5u+14rCzXjZOJW2y03lVzmMSJwDhk68qPYSwryXjwD+PhQ5Kth8pSOS
+ZxP5kYEp34Dpz8PCdF5upKHQfPn1Dgs=
+=BGVF
 -----END PGP SIGNATURE-----
