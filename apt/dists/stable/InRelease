@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 17:21:10 GMT
+Date: Thu, 29 Oct 2026 07:32:09 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 0c280a6142b5a0603ed55c09ecc1eb68      719 main/binary-amd64/Packages
- 043b5d794674396b1b85c186dc29be56      504 main/binary-amd64/Packages.gz
- 5621247599c9990999bdfef22cc4c9bc      719 main/binary-arm64/Packages
- 1a5a109461a4ac34f8e53bbcbf55a2e8      503 main/binary-arm64/Packages.gz
+ 9c539b31af205bc015f0d687188d3f72      719 main/binary-amd64/Packages
+ 06610381732cfb8a5ceb1ae651c417e1      503 main/binary-amd64/Packages.gz
+ 95a4d8b11ae4781a4ff0ecab39f5eb68      719 main/binary-arm64/Packages
+ 5613f8cd2266f0b43ba05c8dc1f7905e      506 main/binary-arm64/Packages.gz
 SHA256:
- b3fb15ff41925c2b21dc071bcb0c35cb7563dd23dc6d670263c1521144594d22      719 main/binary-amd64/Packages
- 9eaf4831dc3cba284f91a92231c01b631df317a12d3527bdb493b76b1a251766      504 main/binary-amd64/Packages.gz
- b64cc620ca4daecbf1e3e6d28889778ab1ba9ea1a66cb008dee0bf8d094f2ee3      719 main/binary-arm64/Packages
- 4a8e9f14c617d93d61cec9afdcb5fdbec5dbdb2f594b3f25f2ff330bbc338308      503 main/binary-arm64/Packages.gz
+ c4d5b8a704064f8ac0aef24585ed808806b44439c86ead9b3ec754a079098b2f      719 main/binary-amd64/Packages
+ a65d449b79fa90e07fd9f22f955d2beedb520f355ccdf95399fc4e9115e0654b      503 main/binary-amd64/Packages.gz
+ d11169850f4db4326e7e47d737bd400b2ad0b76d24c959a3ab293427febc650e      719 main/binary-arm64/Packages
+ 5a8ffd3729783f6fb5f5c1f4bc5dac79e916aec72c82996d69026e30cea4fbc0      506 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauIvBgAKCRDLoUXX7xqp
-EmitAP0ct5u+14rCzXjZOJW2y03lVzmMSJwDhk68qPYSwryXjwD+PhQ5Kth8pSOS
-ZxP5kYEp34Dpz8PCdF5upKHQfPn1Dgs=
-=BGVF
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauL2eQAKCRDLoUXX7xqp
+EiBkAP4lfuRoxbuET7d9F/sA88fkFLr4sNOIaLep5X1/6P+PawEAq7ehmcBGAmKC
+X3S8lsa3hivTtO3h5Nd5iqEh+0TBxAM=
+=SpRx
 -----END PGP SIGNATURE-----
