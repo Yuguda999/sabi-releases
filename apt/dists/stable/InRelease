@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Sat, 31 Oct 2026 02:18:13 GMT
+Date: Sat, 31 Oct 2026 07:53:43 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 0bf6ee60d7dc5182b7ea74dfb0d20dff      719 main/binary-amd64/Packages
- 6f3d723801ab4123b04d8e8593e67d67      503 main/binary-amd64/Packages.gz
- 781387c88c7bb3c568a6cd55fd1d5175      719 main/binary-arm64/Packages
- 32346e8345180ebbee527ea587323e16      504 main/binary-arm64/Packages.gz
+ 10f3cc99c6a29b9278a734c9b40d9234      719 main/binary-amd64/Packages
+ 2c8ac60938c5be93b8702ef62f54abf3      503 main/binary-amd64/Packages.gz
+ cd549f62e01529dcf5548e4cb61eac2f      719 main/binary-arm64/Packages
+ b17020e49acbf9086182babb0cd94da6      505 main/binary-arm64/Packages.gz
 SHA256:
- f9db55743002e27900e70f32473d26a72866a7592807b0eb1f3f486efb0d6939      719 main/binary-amd64/Packages
- def95b21dd63d240b5e56c53648935a5e250de5e393f1dfa35ebead8727aa2ad      503 main/binary-amd64/Packages.gz
- 57c1439d740faa6f276315bbe2597ebb06b1d0da38322c241b69b0337271cdcd      719 main/binary-arm64/Packages
- de261d5b49b8bd9f50a0c601ffceb99f528ad1522f5a70a5965ff80acb9ee02b      504 main/binary-arm64/Packages.gz
+ ab6d70751ce3434ec341707cb17be55f37ab7a9748e5df97b1166a46b606ee3e      719 main/binary-amd64/Packages
+ 24fba3b0c8f2d4f4c8d30b779e057a433099804fd25c3617282d59017cc375b0      503 main/binary-amd64/Packages.gz
+ 47061663a91e2f2409a358f7e1f5358c401b2affe07a2b352ee5aa5038b7a383      719 main/binary-arm64/Packages
+ e0e89c1c7da29d2a52fa0086b1804d856ac3f59d65c45eba78fd2ad5f0f2c630      505 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauVP5QAKCRDLoUXX7xqp
-EiIVAP4g06PWcjufgPFY9JW3jHr7nUjnOHMN8rDmY+84M80P/QD6AvbsbPs80YP+
-gSqJuY+fLv66Tbr5oy9njcGqRXkBHAQ=
-=sSWG
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauWehwAKCRDLoUXX7xqp
+EpgYAQC8B3YNjjOoIE/RcqYiQSTtoSXcZ6L/DRvP6t2o6SjiBAEAkvYZTzI9lclE
+4UcWanHkIZCVGGrPJDv5C360HcX/nQY=
+=BAXN
 -----END PGP SIGNATURE-----
