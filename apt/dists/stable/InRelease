@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Sat, 31 Oct 2026 07:53:43 GMT
+Date: Wed, 04 Nov 2026 10:47:16 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 10f3cc99c6a29b9278a734c9b40d9234      719 main/binary-amd64/Packages
- 2c8ac60938c5be93b8702ef62f54abf3      503 main/binary-amd64/Packages.gz
- cd549f62e01529dcf5548e4cb61eac2f      719 main/binary-arm64/Packages
- b17020e49acbf9086182babb0cd94da6      505 main/binary-arm64/Packages.gz
+ 765505afab9d7364f5824eacb449615a      719 main/binary-amd64/Packages
+ 666b427e4823cfef2465cc9fdd7412ef      506 main/binary-amd64/Packages.gz
+ f0a4df2b5f4c3e97e02ef99b45ef420c      719 main/binary-arm64/Packages
+ f537802fdbf1a3f7b7b6ccabc12df579      503 main/binary-arm64/Packages.gz
 SHA256:
- ab6d70751ce3434ec341707cb17be55f37ab7a9748e5df97b1166a46b606ee3e      719 main/binary-amd64/Packages
- 24fba3b0c8f2d4f4c8d30b779e057a433099804fd25c3617282d59017cc375b0      503 main/binary-amd64/Packages.gz
- 47061663a91e2f2409a358f7e1f5358c401b2affe07a2b352ee5aa5038b7a383      719 main/binary-arm64/Packages
- e0e89c1c7da29d2a52fa0086b1804d856ac3f59d65c45eba78fd2ad5f0f2c630      505 main/binary-arm64/Packages.gz
+ 855641a8256b54bb505f22796b9f1110213c445bab3e78cd438960c74b178231      719 main/binary-amd64/Packages
+ c20094714af86e222b4177418985a3df497edc7cb636bef5d208dae4de99a693      506 main/binary-amd64/Packages.gz
+ a03f64e06670d9cf75028478365fde617e7c33c4ef0496dd1651414d7283f7a0      719 main/binary-arm64/Packages
+ eef5a8359f030dfe7dde9bc398968fd49e001c780528d467b70f1f860ad51a04      503 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCauWehwAKCRDLoUXX7xqp
-EpgYAQC8B3YNjjOoIE/RcqYiQSTtoSXcZ6L/DRvP6t2o6SjiBAEAkvYZTzI9lclE
-4UcWanHkIZCVGGrPJDv5C360HcX/nQY=
-=BAXN
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCausNNAAKCRDLoUXX7xqp
+Et4AAPwKDEACL95rxUtl6bNAQuDZS+76EBgxEQK1N3o76z75fgEAl7C6EDlHcV/D
+MA1QMGL/SXy5ebJyE3DkmTFZbkSmXQw=
+=yp5w
 -----END PGP SIGNATURE-----
