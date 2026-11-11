@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Wed, 04 Nov 2026 10:47:16 GMT
+Date: Wed, 11 Nov 2026 11:48:07 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 765505afab9d7364f5824eacb449615a      719 main/binary-amd64/Packages
- 666b427e4823cfef2465cc9fdd7412ef      506 main/binary-amd64/Packages.gz
- f0a4df2b5f4c3e97e02ef99b45ef420c      719 main/binary-arm64/Packages
- f537802fdbf1a3f7b7b6ccabc12df579      503 main/binary-arm64/Packages.gz
+ 5f0f6714d4997c7a10c6384370ad8689      719 main/binary-amd64/Packages
+ 57604c809ad7556743fd6c07692eab37      506 main/binary-amd64/Packages.gz
+ cfc1ac0f900c8f8a32546680e19a4961      719 main/binary-arm64/Packages
+ af00ed974e3e400af716be5a5e824f89      503 main/binary-arm64/Packages.gz
 SHA256:
- 855641a8256b54bb505f22796b9f1110213c445bab3e78cd438960c74b178231      719 main/binary-amd64/Packages
- c20094714af86e222b4177418985a3df497edc7cb636bef5d208dae4de99a693      506 main/binary-amd64/Packages.gz
- a03f64e06670d9cf75028478365fde617e7c33c4ef0496dd1651414d7283f7a0      719 main/binary-arm64/Packages
- eef5a8359f030dfe7dde9bc398968fd49e001c780528d467b70f1f860ad51a04      503 main/binary-arm64/Packages.gz
+ b2cb40e9bd3b079bfef96859aa139beb81e31bf8874c62da0dcf57bf0e671383      719 main/binary-amd64/Packages
+ 977017d4ffbf4c051807281f7a8a8b08555c271440849b66f138a9c803a628f6      506 main/binary-amd64/Packages.gz
+ 8f05fb262e1f2af41cbdf552e2a17c41e82f404c1c8cb9588ebd01efc92436b2      719 main/binary-arm64/Packages
+ 08f29af25ac2132830ab50aaa2b6ba9cdde36c2d0e24fe1e68610f0f7fe5f260      503 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCausNNAAKCRDLoUXX7xqp
-Et4AAPwKDEACL95rxUtl6bNAQuDZS+76EBgxEQK1N3o76z75fgEAl7C6EDlHcV/D
-MA1QMGL/SXy5ebJyE3DkmTFZbkSmXQw=
-=yp5w
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCavRV9wAKCRDLoUXX7xqp
+Ev0iAPwJnbTtvoG4EGKSNZ2PYoQdHjnz41qtJZdRLUOtPiDr8gEA4WcHEvSHxID4
+9gwSXEFCeXT+Di0zGBCgptlaFvG3mQs=
+=9UpA
 -----END PGP SIGNATURE-----
