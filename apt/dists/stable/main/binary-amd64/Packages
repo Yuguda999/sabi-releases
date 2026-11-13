@@ -1,15 +1,15 @@
 Package: sabi-hub
-Version: 0.3.19
+Version: 0.3.20
 Architecture: amd64
 Maintainer: Sabi <hello@sabi.ng>
-Installed-Size: 18152
+Installed-Size: 18208
 Depends: systemd
 Recommends: xdg-utils, network-manager, dnsmasq-base
-Filename: pool/main/s/sabi-hub/sabi-hub_0.3.19_amd64.deb
-Size: 6003888
-MD5sum: caedecc91c7cbea1e411f17159134a51
-SHA1: 9a78f0b7e2c5367f7a664080f7209ca8955249ab
-SHA256: 2f65f5768b0452e7bc9ce3ebfa822c8e8a80545a57c28047db4eb08f017f4985
+Filename: pool/main/s/sabi-hub/sabi-hub_0.3.20_amd64.deb
+Size: 6022040
+MD5sum: fb1f9d15aa17c7c2273ff8b0d7e5d20e
+SHA1: 5f5bb6c9d7346568f23cb6041d081d9bdb05b3b8
+SHA256: 9b11d32a97f3787f6e79c5127273f3546fe3ea07d8ed3b9c8e059ca1ba510477
 Section: education
 Priority: optional
 Homepage: https://sabi-studio.pages.dev

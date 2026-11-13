@@ -5,24 +5,24 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Fri, 13 Nov 2026 09:34:29 GMT
+Date: Fri, 13 Nov 2026 12:04:41 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- 62b23bf3f7d9770568766116e9bf1636      719 main/binary-amd64/Packages
- 18153f06b4953b684ab8ee401a5d81b0      507 main/binary-amd64/Packages.gz
- be7d65ba576ae64c7cee99f76adc2006      719 main/binary-arm64/Packages
- 7d016a4e5bd0ed1c1bbffd121642f3f9      506 main/binary-arm64/Packages.gz
+ d34ba9f96f30482cd424baf4b53c3fb7      719 main/binary-amd64/Packages
+ 0bd0473e79fc97c06c90eea764af9cae      505 main/binary-amd64/Packages.gz
+ ac2317ec1d3f0fd64ba69f83fb3df115      719 main/binary-arm64/Packages
+ 500da78959c24f5b35fc12d240b1dad1      503 main/binary-arm64/Packages.gz
 SHA256:
- 04e7db6f8810f8f9f7ce744040472cc69832c8ae3bb429ae64a7ca1527f08384      719 main/binary-amd64/Packages
- f2ecd4c310dcd4b5cc34aacbce6f114e1009c1eb5f0f0ca2bf78717ff03a84a8      507 main/binary-amd64/Packages.gz
- 2e542695445ed68c02a4b2f86ac96df8d45d5dc4389837464ebb24751dca591a      719 main/binary-arm64/Packages
- dc58d02519432280cd7fe761c82c3e3276500741c190c30f2c0010b8466ddc6c      506 main/binary-arm64/Packages.gz
+ b28c49be7e495a781dbc55268ed1069c743e8fbf458fbcfca7af5604c362bac0      719 main/binary-amd64/Packages
+ e070af8938619c39a2592c5d8ad6bb15d795874d73de8447e79aab11d80e2260      505 main/binary-amd64/Packages.gz
+ c518238101578be542771e42673a1d382b547ef71918f72048cee20dd8e8b420      719 main/binary-arm64/Packages
+ 321ee1878547af85ce3c0f6015a2193108bd587d12651ea09a622cae1edc2ff8      503 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCavbZpQAKCRDLoUXX7xqp
-ErWsAQCycuI2tdKlI0DxvyosCp7qKE4Zhp9iRZyPFikvlmv/fwEA8g/oZZ3/CtaX
-AaAS1gLXQLwJybXYzgjb9n8e/33fdQI=
-=cNGw
+iHUEARYKAB0WIQSf0tUyvOfBjy0sys3LoUXX7xqpEgUCavb82QAKCRDLoUXX7xqp
+Em7iAQDd5J9UhXIjvnN7EktViQbRCUt2jb8CpUIi1ZmMonldNgD/Y0gRk/OOWtWe
+gOUTwlqlgJ4Edu/7Cx0FiVxH3+q6xgc=
+=vmKj
 -----END PGP SIGNATURE-----
