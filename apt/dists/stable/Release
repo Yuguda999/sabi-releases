@@ -2,17 +2,17 @@ Origin: Sabi
 Label: Sabi Hub
 Suite: stable
 Codename: stable
-Date: Mon, 16 Nov 2026 13:04:53 GMT
+Date: Tue, 17 Nov 2026 04:12:16 GMT
 Architectures: amd64 arm64
 Components: main
 Description: Sabi exam hub for schools
 MD5Sum:
- f5c1666d1c9811eb98174fcf9fd5906d      719 main/binary-amd64/Packages
- ba1fb679ce87dcb1bd1e56325c522234      503 main/binary-amd64/Packages.gz
- 32c8a3201bd309f59664fd8ee98ecd4b      719 main/binary-arm64/Packages
- f3fe5e23393e38be0286643307237fe0      504 main/binary-arm64/Packages.gz
+ e9484343d26fc800ffb4e732e53722a7      719 main/binary-amd64/Packages
+ c455e1857e6562f6b8e5685ee8028e31      503 main/binary-amd64/Packages.gz
+ 6a861ae1ca1982ff9b698f67fb0bae59      719 main/binary-arm64/Packages
+ ec094b6b5bdf8c645ac13780a56e4267      502 main/binary-arm64/Packages.gz
 SHA256:
- 23dc27ba76fcd4b72f71a54f4bde20924d43f1fa2a530ef95e7539f29352b484      719 main/binary-amd64/Packages
- 3cfc32f5b637e9f1140dcb33a0645bbe8ab6bf8c8e452df28fd0bfd9bf61d6d6      503 main/binary-amd64/Packages.gz
- e71be4943cbb9ab16b8fa6d17c4965fe7742d0a25e47fff78f40ff4c8c2e9060      719 main/binary-arm64/Packages
- 67fadb2115821e25e50872387a9f71b73a6cbf237e31205c03ca2b84e4dd233d      504 main/binary-arm64/Packages.gz
+ 5c60ca0adc8409ab5498bbce0003ae393968b964efbe1d8cd387b93663a67fb8      719 main/binary-amd64/Packages
+ 543b96df21479665319b2b41e97057515ff2d30e35c4b773a4880da0883ee38e      503 main/binary-amd64/Packages.gz
+ cf23c315b7c274e35c10bb9cd8338a8d0c3e5a7f6dba460049797a6f51df70ac      719 main/binary-arm64/Packages
+ 0b4755d86e6939c45316ad8d3f035f6654407563bb18960d817b5f37abcfc9fd      502 main/binary-arm64/Packages.gz
